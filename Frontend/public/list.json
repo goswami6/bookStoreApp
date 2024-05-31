@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/modern-sport-composition-with-gym-elements_23-2148000115.jpg?t=st=1716721980~exp=1716725580~hmac=995cbd6088d4d69d46fda6b5469aeb0d1fe7749dbb0c6480b79b80aabb7b22f5&w=996"
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 100,
+        "category": "Songs",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":5,
+        "name": "Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 150,
+        "category": "Novel",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":6,
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":7,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":8,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":9,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    },
+    {
+        "id":10,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    }, {
+        "id":11,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107842.jpg?t=st=1716717482~exp=1716721082~hmac=5701b25df896791c771884387e924d9385e7007f9d214aedf0f2662145411787&w=996"
+    }
+]
